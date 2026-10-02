@@ -1,0 +1,17 @@
+file 'C:\Users\ROY\mindbloom\video_frames\slide1_title.png'
+duration 20
+file 'C:\Users\ROY\mindbloom\video_frames\slide2_problem.png'
+duration 20
+file 'C:\Users\ROY\mindbloom\video_frames\slide3_arch.png'
+duration 20
+file 'C:\Users\ROY\mindbloom\video_frames\slide4_dash.png'
+duration 25
+file 'C:\Users\ROY\mindbloom\video_frames\slide5_mood.png'
+duration 25
+file 'C:\Users\ROY\mindbloom\video_frames\slide6_challenges.png'
+duration 25
+file 'C:\Users\ROY\mindbloom\video_frames\slide7_breathe.png'
+duration 25
+file 'C:\Users\ROY\mindbloom\video_frames\slide8_learning.png'
+duration 20
+file 'C:\Users\ROY\mindbloom\video_frames\slide8_learning.png'
