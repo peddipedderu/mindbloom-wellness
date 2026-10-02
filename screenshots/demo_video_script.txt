@@ -1,0 +1,70 @@
+MINDBLOOM DEMO VIDEO SCRIPT
+============================
+Title: MindBloom - Student Mental Wellness Tracker | FirstCommit 2026 Hackathon Demo
+Duration: 4 minutes
+
+[OPENING - 0:00-0:30]
+[Screen: Animated MindBloom logo with sprout emoji]
+
+Narrator: "Hey everyone! I'm excited to present MindBloom — a mental wellness tracker 
+built specifically for students. Mental health is a crisis among young people today, 
+and I wanted to build something that makes daily wellness checks fun, consistent, and 
+meaningful. Let me show you what I built."
+
+[PROBLEM STATEMENT - 0:30-1:00]
+[Screen: Split screen - stressed student vs MindBloom dashboard]
+
+Narrator: "1 in 3 students experiences anxiety or depression. Most wellness apps feel 
+clinical and boring. MindBloom changes that by gamifying wellness — earning XP, 
+building streaks, and leveling up through healthy habits."
+
+[FEATURE 1: MOOD LOGGING - 1:00-1:30]
+[Screen: Mood log page - selecting emoji, tagging activities, entering note]
+
+Narrator: "Every day, you can log your mood on a 10-point scale with emoji buttons. 
+You can tag what you were doing — studying, exercising, hanging with friends — and add 
+notes. Each log earns you 20 XP. Build a streak and get bonus XP!"
+
+[FEATURE 2: JOURNAL - 1:30-2:00]
+[Screen: Journal page - creating a new entry]
+
+Narrator: "The private journal gives you a judgment-free space to reflect. Add mood 
+tags to your entries, track your word count, and earn 15 XP for each entry. All your 
+thoughts are private to you."
+
+[FEATURE 3: BREATHING EXERCISE - 2:00-2:30]
+[Screen: Breathing page - animated circle breathing in/out]
+
+Narrator: "Feeling stressed? The guided breathing exercises use proven techniques like 
+the 4-7-8 breath to instantly calm your nervous system. Watch the circle — breathe in 
+as it expands, hold, then exhale as it shrinks. Sessions are logged and earn you XP!"
+
+[FEATURE 4: CHALLENGES - 2:30-3:00]
+[Screen: Challenges page - browsing and joining challenges]
+
+Narrator: "Wellness challenges make habits stick. Join the 7-Day Mood Tracker, the 
+Digital Detox, or the Sleep Champion challenge. Each day you complete your challenge, 
+mark your progress. Finish and earn up to 200 XP!"
+
+[FEATURE 5: DASHBOARD & ANALYTICS - 3:00-3:30]
+[Screen: Dashboard with stats, mood trend chart, level progress]
+
+Narrator: "The dashboard shows your streak, average mood, journal entries, and level 
+progress. The mood trend chart lets you spot patterns — maybe you're consistently low 
+on Monday mornings. Knowledge is power!"
+
+[TECHNICAL OVERVIEW - 3:30-4:00]
+[Screen: Code editor showing backend, then frontend]
+
+Narrator: "Under the hood: the backend is Node.js with Express, using SQLite for 
+persistent storage — no cloud database needed! JWT authentication keeps accounts secure. 
+The frontend is pure vanilla JavaScript — no React, no Vue — just clean, fast code 
+with beautiful CSS animations. It's deployed on Fly.io and lives at 
+mindbloom-wellness.fly.dev."
+
+[CLOSING - 3:50-4:00]
+Narrator: "Mental health matters. MindBloom is my first attempt to do something about 
+it. I learned so much building this — REST APIs, database design, JWT auth, Docker, 
+responsive CSS. Thank you FirstCommit for this opportunity. Let's bloom together! 🌱"
+
+[END SCREEN: mindbloom-wellness.fly.dev | github.com/peddipedderu/mindbloom-wellness]
